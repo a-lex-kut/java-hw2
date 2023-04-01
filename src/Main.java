@@ -1,9 +1,9 @@
 public class Main {
     public static void main(String[] args) {
 
-        int t = 25500;
-        int b = 20;
-        int x = t / b;
+        int ticket = 25500;
+        int bonusMiles = 20;
+        int x = ticket / bonusMiles;
         System.out.println(x);
 
     }
